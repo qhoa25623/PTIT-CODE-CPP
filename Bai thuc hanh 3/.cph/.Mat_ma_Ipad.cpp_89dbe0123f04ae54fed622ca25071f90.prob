@@ -1,0 +1,1 @@
+{"name":"Local: Mat_ma_Ipad","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Mat_ma_Ipad.cpp","tests":[{"id":1668907797382,"input":"3\n1234 234DFAA4592\n1234 234BC2DE4592\n126152 35345AGDGKG","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Mat_ma_Ipad.cpp","group":"local","local":true}

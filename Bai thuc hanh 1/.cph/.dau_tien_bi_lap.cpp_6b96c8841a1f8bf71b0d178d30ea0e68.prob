@@ -1,0 +1,1 @@
+{"name":"Local: dau_tien_bi_lap","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 1\\dau_tien_bi_lap.cpp","tests":[{"id":1665318865568,"input":"2\n7\n10 5 3 4 3 5 6\n4\n1 2 3 4","output":"5\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 1\\dau_tien_bi_lap.cpp","group":"local","local":true}

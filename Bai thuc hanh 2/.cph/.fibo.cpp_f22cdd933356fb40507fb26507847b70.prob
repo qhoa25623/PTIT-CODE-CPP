@@ -1,0 +1,1 @@
+{"name":"Local: fibo","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\fibo.cpp","tests":[{"id":1665316621553,"input":"2\n8\n15","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\fibo.cpp","group":"local","local":true}

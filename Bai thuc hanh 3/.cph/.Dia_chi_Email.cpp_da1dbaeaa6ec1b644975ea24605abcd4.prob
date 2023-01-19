@@ -1,0 +1,1 @@
+{"name":"Local: Dia_chi_Email","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Dia_chi_Email.cpp","tests":[{"id":1667735390429,"input":"2\ncode@ptit.edu.vn\nptit@ptit","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Dia_chi_Email.cpp","group":"local","local":true}

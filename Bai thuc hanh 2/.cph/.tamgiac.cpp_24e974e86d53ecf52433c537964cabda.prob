@@ -1,0 +1,1 @@
+{"name":"Local: tamgiac","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\tamgiac.cpp","tests":[{"id":1665992680580,"input":"5 5 5","output":"Day la tam giac\nTam giac deu"},{"id":1665992891185,"input":"7 8 9","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\tamgiac.cpp","group":"local","local":true}

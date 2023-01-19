@@ -1,0 +1,1 @@
+{"name":"Local: manh2","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 1\\manh2.cpp","tests":[{"id":1664504895447,"input":"4\na0abc232\ngeeksageeks\nabc30x212yz11\n123abc","output":"0 232\n-1\n212 11\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 1\\manh2.cpp","group":"local","local":true}

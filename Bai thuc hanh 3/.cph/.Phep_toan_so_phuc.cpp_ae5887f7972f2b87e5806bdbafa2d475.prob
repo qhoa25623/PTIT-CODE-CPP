@@ -1,0 +1,1 @@
+{"name":"Local: Phep_toan_so_phuc","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Phep_toan_so_phuc.cpp","tests":[{"id":1667729265562,"input":"2\n1 2 3 4\n2 3 4 5","output":"-20 + 48i\n-28 + 96i"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 3\\Phep_toan_so_phuc.cpp","group":"local","local":true}

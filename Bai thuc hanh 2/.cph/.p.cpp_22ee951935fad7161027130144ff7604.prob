@@ -1,0 +1,1 @@
+{"name":"Local: p","url":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\p.cpp","tests":[{"id":1665368502104,"input":"10\n1 10 2\n2 5 7\n3 20 100\n4 10 20\n5 100 70\n6 1 1\n7 0 2\n8 2 0\n9 10 11\n10 12 13","output":"1 2 3 4 5 9 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Code PTIT - C++\\Bai thuc hanh 2\\p.cpp","group":"local","local":true}
